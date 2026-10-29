@@ -1,0 +1,32 @@
+id,name,kind,url,divisions,status,excluded,observations_this_run,items_this_run
+gn_ins_prices,"INS — INHPC monthly note, Tableau 21 'average prices of essential products by region'",market,https://stat-guinee.org/images/Documents/Publications/INS/infra_annuelles/IHPC/INHPC_2026/Note_INHPC_Juin_2026_Guinee_V1.pdf,01 04 07,partial,False,0,0
+gn_rtfp,World Bank RTFP — monthly food price estimates by product and market (20 markets),market,https://microdata.worldbank.org/catalog/6165,01,partial,False,0,0
+gn_fuel_grid,Government pump prices — petrol and diesel,tariff,https://guineenews.org/2022/06/01/guinee-le-prix-du-litre-dessence-passe-de-10-mille-a-12-mille-gnf-officiel/,07,verified,False,4,2
+gn_kerosene,Government pump price — kerosene (pétrole lampant),tariff,https://guineenews.org/2022/06/01/guinee-le-prix-du-litre-dessence-passe-de-10-mille-a-12-mille-gnf-officiel/,04,partial,False,2,1
+gn_edg_electricity,EDG — household electricity tariff by consumption band,tariff,https://guineenews.org/2025/03/30/pour-resoudre-linsuffisance-deau-et-delectricite-en-republique-de-guinee-faut-il-ouvrir-les-monopoles-la-societe-des-eaux-de-guinee-seg-et-lelectricite-de-guinee-edg-a-linvestissement/,04,partial,False,6,3
+gn_seg_water,SEG — domestic water tariff by consumption band,tariff,https://guineenews.org/2025/03/30/pour-resoudre-linsuffisance-deau-et-delectricite-en-republique-de-guinee-faut-il-ouvrir-les-monopoles-la-societe-des-eaux-de-guinee-seg-et-lelectricite-de-guinee-edg-a-linvestissement/,04,partial,False,8,4
+gn_orange_data,Orange Guinée — mobile data bundles (weekly and monthly),tariff,https://osiris.sn/cout-de-l-internet-quelle-est-la-place-de-la-guinee-par-rapport-a-ses-voisins.html,08,partial,False,10,5
+gn_orange_money,Orange Money Guinée — withdrawal fee grid,tariff,https://guineenews.org/2025/01/15/monnaie-electronique-orange-money-reduit-encore-ses-frais-de-retrait-de-1/,12,partial,False,6,3
+gn_sg_bank_fees,Société Générale Guinée — retail banking fee schedule (individuals),tariff,https://guinee.societegenerale.com/fileadmin/user_upload/guinee/PDF/Tarifs_Clipri.pdf,12,partial,False,8,4
+gn_worldbank,World Bank — official CPI (annual),benchmark,https://api.worldbank.org/v2/country/GIN/indicator/FP.CPI.TOTL,,partial,False,0,0
+gn_imf,IMF DataMapper — inflation (WEO),benchmark,https://www.imf.org/external/datamapper/api/v1/PCPIPCH/GIN,,partial,False,0,0
+gn_wfp_hdx,WFP market prices (HDX),market,https://data.humdata.org/dataset/wfp-food-prices-for-guinea,01,excluded,True,0,0
+gn_fews_net,FEWS NET — Guinea,market,https://fews.net/west-africa/guinea,01,excluded,True,0,0
+gn_ramadan_ceilings,Ministry of Commerce — ceiling prices of staples (Ramadan/Lent 2026),tariff,https://www.koaci.com/index.php/article/2026/02/19/guinee/politique/guinee-ramadan-et-careme-2026-le-gouvernement-fixe-les-prix-des-produits-de-base_194495.html,01,excluded,True,0,0
+gn_press_market_reports,"Press market-price reports, Conakry ('panier de la ménagère')",market,https://guineenews.org/2025/03/08/panier-de-la-menagere-a-conakry-variation-des-prix-de-certaines-denrees-alimentaires-sur-les-marches/,01,excluded,True,0,0
+gn_bread_price,Official bread price (baguette),tariff,https://guineenews.org/2021/12/04/hausse-du-prix-du-pain-quand-le-gouvernement-roule-les-guineens-dans-la-farine/,01,excluded,True,0,0
+gn_fao_giews,FAO GIEWS country brief / FPMA tool — Guinea,market,https://www.fao.org/giews/countrybrief/country/GIN/pdf/GIN.pdf,01,excluded,True,0,0
+gn_cement,Cement price (50 kg bag),tariff,https://www.cemnet.com/News/story/179409/guinean-cement-shortage-leads-to-price-surge.html,04,excluded,True,0,0
+gn_transport_fares,Urban and inter-urban passenger fares (June 2022),tariff,https://guineenews.org/2022/06/25/apres-la-hausse-du-prix-du-carburant-voici-les-nouveaux-tarifs-de-transport-urbain/,07,excluded,True,0,0
+gn_lpg,Butane (LPG) refill prices,tariff,https://guineenews.org/2023/08/16/non-application-des-nouveaux-prix-du-gaz-butane-entre-letat-et-les-operateurs-a-qui-la-faute/,04,excluded,True,0,0
+gn_master_fees,Public university master's fees,tariff,https://guineenews.org/2025/02/21/le-gouvernement-guineen-reduit-les-frais-de-scolarite-des-masters-dans-les-universites-publiques/?amp=1,10,excluded,True,0,0
+gn_private_school_caps,"Private schools — capped registration fees (MEPU-A, 2022)",tariff,https://guineenews.org/2022/08/31/plafonnement-des-frais-dinscription-une-mesure-qui-passe-mal-aupres-des-parents-deleves/,10,excluded,True,0,0
+gn_ecommerce,"Online shops / marketplaces (groceries, clothing, furnishings, personal care)",ecommerce,https://www.foodbusinessmea.com/?p=2160886,01 03 05 13,excluded,True,0,0
+gn_rents,Rent and classified-ad portals (Conakry),rent,https://guineenews.org/2026/01/12/crise-du-logement-a-conakry-entre-speculation-immobiliere-et-detresse-sociale/,04,excluded,True,0,0
+gn_food_delivery,"Food-delivery apps and restaurant menus (Dineroo, GuiFood, Clic GN)",ecommerce,https://www.wearetech.africa/fr/fils/solutions/guinee-avec-son-application-mobile-dineroo-numerise-la-livraison-de-repas,11,excluded,True,0,0
+gn_hotels,Hotel rates in Conakry (booking metasearch),ecommerce,https://www.kayak.fr/Conakry-Hotels.811.hotel.ksp,11,excluded,True,0,0
+gn_cost_of_living_sites,"Cost-of-living aggregators (combien-coute.net, Numbeo, Expatistan)",market,https://www.combien-coute.net/restaurant/guinee/,02 11,excluded,True,0,0
+gn_alcohol_tobacco,Beer and cigarette retail prices,tariff,https://www.ictd.ac/wp-content/uploads/2020/05/Guinea_Tobacco_Tax_Factsheet_FR.pdf,02,excluded,True,0,0
+gn_other_operators,Areeba (ex-MTN Guinée) and Cellcom — data bundles and mobile-money fees,tariff,https://osiris.sn/guinee-l-etat-prend-officiellement-le-controle-total-d-areeba-guinee.html,08 12,excluded,True,0,0
+gn_medicines,Medicine prices and public consultation fees,tariff,https://guineenews.org/2025/01/06/medicaments-pharmaceutiques-pourquoi-les-prix-varient-dune-pharmacie-a-une-autre/,06,excluded,True,0,0
+gn_insurance,Motor third-party insurance premiums,tariff,https://guineenews.org/2020/08/04/arnaque-a-lassurance-les-detenteurs-dengins-roulants-pigeonnes-par-des-societes-dassurance/,12,excluded,True,0,0

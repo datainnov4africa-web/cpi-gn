@@ -1,0 +1,14 @@
+division,label_en,label_fr,weight_pct,items,sources,index_last,change_pct,contribution_last_pp,measured
+01,Food and non-alcoholic beverages,Produits alimentaires et boissons non alcoolisées,39.3,0,0,,,,False
+02,"Alcoholic beverages, tobacco and narcotics","Boissons alcoolisées, tabac et stupéfiants",0.66,0,0,,,,False
+03,Clothing and footwear,Articles d'habillement et chaussures,7.49,0,0,,,,False
+04,"Housing, water, electricity, gas and other fuels","Logement, eau, électricité, gaz et autres combustibles",4.61,8,3,100.0,0.0,0.0,True
+05,"Furnishings, household equipment and maintenance","Meubles, équipements ménagers et entretien courant",3.26,0,0,,,,False
+06,Health,Santé,3.68,0,0,,,,False
+07,Transport,Transports,10.78,2,1,100.0,0.0,0.0,True
+08,Information and communication,Information et communication,6.48,5,1,100.0,0.0,0.0,True
+09,"Recreation, sport and culture","Loisirs, sports et culture",1.43,0,0,,,,False
+10,Education services,Services d'enseignement,1.0,0,0,,,,False
+11,Restaurants and accommodation services,Restaurants et services d'hébergement,16.83,0,0,,,,False
+12,Insurance and financial services,Assurances et services financiers,0.0,7,2,100.0,0.0,,True
+13,"Personal care, social protection and miscellaneous","Soins personnels, protection sociale et divers",4.49,0,0,,,,False

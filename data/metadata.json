@@ -1,0 +1,46 @@
+{
+ "iso2": "GN",
+ "iso3": "GIN",
+ "name_en": "Guinea",
+ "name_fr": "Guinée",
+ "currency": "GNF",
+ "symbol": "FG",
+ "languages": [
+  "fr"
+ ],
+ "brand": "AfDB – Data Innovation for Africa (DI4A)",
+ "version": "2.0.0",
+ "generated": "2026-10-29T20:19Z",
+ "frequency": "D",
+ "periods": [
+  "2026-10-29",
+  "2026-10-30"
+ ],
+ "weights_status": "given",
+ "weights_source": "Institut National de la Statistique (INS), 'Indice National Harmonisé des Prix à la Consommation (INHPC)', monthly note for June 2026 (Note_INHPC_Juin_2026_Guinee_V1.pdf), weight column of the table by consumption function (out of 10,000). The same weights are printed in the May 2026 note (Tableau 2 'Pondérations et variations par fonction'). Base 2019 = 100, UEMOA-harmonised method, weights from the 2019 Harmonised Survey on Household Living Conditions (EHCVM). Published: food 3,930; alcohol and tobacco 66; clothing 749; housing 461; furnishings 326; health 368; transport 1,078; communication 648; recreation 143; education 100; restaurants and hotels 1,683; miscellaneous 449. The twelve published weights add up to 10,001 (rounding), so the 13 values below total 100.01. Mapping COICOP 1999 → 2018: functions I–XI carried one to one, communication becomes 08. No sub-weights of 'Biens et services divers' (12.5 insurance, 12.6 financial services) are published, so all of 1999-12 goes to 2018-13 and 2018-12 is set to 0. Group weights not published.",
+ "weights_url": "https://stat-guinee.org/images/Documents/Publications/INS/infra_annuelles/IHPC/INHPC_2026/Note_INHPC_Juin_2026_Guinee_V1.pdf",
+ "basket_share": 0.2187,
+ "demo": false,
+ "excluded_natures": [
+  "rent_ask"
+ ],
+ "title_en": "Experimental consumer price index",
+ "title_fr": "Indice expérimental des prix à la consommation",
+ "capital": {
+  "name": "Conakry",
+  "lat": 9.5092,
+  "lon": -13.7122
+ },
+ "kpi": {
+  "index": 100.0,
+  "change": 0.0,
+  "cumulative": 0.0,
+  "period": "2026-10-30",
+  "first_period": "2026-10-29",
+  "observations": 44,
+  "items": 22,
+  "sources": 7,
+  "divisions": 3,
+  "matched": 22
+ }
+}
